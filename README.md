@@ -1,2 +1,2 @@
 # Docusaurus-docs-deploy
-just testing to deploz Docusaurus as documentation
+just testing to deploy Docusaurus as documentation
